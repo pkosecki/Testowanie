@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a78d9faf-b9bd-4c4e-9413-00d9a548cf17": {
+      "ProjectGuid": "a78d9faf-b9bd-4c4e-9413-00d9a548cf17",
+      "DisplayName": "RPNTest",
+      "ColorIndex": 0
+    },
+    "24ce80ac-27fa-44a0-b94c-141bdd5cdba0": {
+      "ProjectGuid": "24ce80ac-27fa-44a0-b94c-141bdd5cdba0",
+      "DisplayName": "RPNCalulator",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}
