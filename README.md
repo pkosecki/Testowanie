@@ -1,6 +1,1 @@
-# Testowanie
-~Paweł Kosecki 255172
-Testowanie
-Praca zaliczeniowa
-RPN - program
-RPNTest - testy
+Program sprawdzający podstawowe działania matematyczne oraz przygotowane testy sprawdzające poprawność kodu.
